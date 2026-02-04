@@ -55,8 +55,10 @@ This project was built to:
 
 ## ⚠️ Disclaimer
 
-Clinic name, content, and images are used **for demonstration purposes only**.  
-This repository and live demo **do not represent an official clinic website** unless explicitly approved by the clinic owner.
+Clinic name, images, and publicly available details are used **solely for demonstration and portfolio purposes**.  
+This project **does not represent an official website** and is **not affiliated with the clinic** unless explicitly approved by the clinic owner.
+
+If requested, the demo will be taken down or modified immediately.
 
 ---
 
